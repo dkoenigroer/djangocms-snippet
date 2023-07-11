@@ -8,7 +8,7 @@ from djangocms_snippet import __version__
 
 REQUIREMENTS = [
     'django-cms>=3.7',
-    'django-treebeard>=4.3,<4.5',
+    'django-treebeard>=4.3,<4.7',
 ]
 
 EXTRA_REQUIREMENTS = {
