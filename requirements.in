@@ -1,6 +1,6 @@
 bump2version
 django-cms>=3.7
-django-treebeard>=4.3,<=4.6
+django-treebeard>=4.3,<4.7
 pip-tools
 pre-commit
 wheel
